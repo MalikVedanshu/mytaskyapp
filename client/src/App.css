@@ -1,0 +1,51 @@
+html,
+body  {
+  background-color : #2d2d2d;
+  color: rgba(19, 184, 221, 0.857);
+  font-size: medium;
+  margin-right: 6%;
+  margin-left: 6%;
+  
+}
+h1{
+  text-align: center;
+}
+li,ul {
+  font-size: medium;
+}
+input,button,select{
+  font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 4px;
+  background-color: #c7c7c7; 
+}
+
+input[type=text],input[type=password],[type=tel], [type= datetime-local], [type=button],select{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.login-page{
+  padding: 16px;
+}
+
+td,tr {  
+  border: 2px solid;
+  font-size: medium;
+  width: 10%;
+  height: auto;
+  text-align: center;
+}
+th {
+  border: 3px solid;
+  font-size: medium;
+  font-weight: bold;
+}
+.link {
+  text-decoration: none;
+  font-size: medium;
+}

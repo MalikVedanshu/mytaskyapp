@@ -1,0 +1,22 @@
+{
+    "port": 5500,
+    "url": "",
+    "email_smtp": {
+        "host": "",
+        "auth": {
+            "user": "",
+            "pass": ""
+        },  
+        "port": 0
+    },
+    "sms": {
+        "accountsid": "",
+        "auth": "",
+        "myphone": ""
+    },
+    "mongo_uri": "",
+    "jwt_secret_key": "",
+    "cryptojs_secret_key" : "",
+    "JWTphoneKey": "",
+    "JWTemailKey" : ""
+}
